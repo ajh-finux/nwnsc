@@ -2,6 +2,7 @@
 #define _SOURCE_PROGRAMS_SKYWINGUTILS_PARSERS_BUFFERPARSER_H
 
 #include "Precomp.h"
+#include <stdint.h>
 
 #ifdef _MSC_VER
 #pragma once
